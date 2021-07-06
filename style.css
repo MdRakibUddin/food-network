@@ -1,0 +1,6 @@
+section{
+    display: flex;
+}
+.word-color{
+    color: orange;
+}

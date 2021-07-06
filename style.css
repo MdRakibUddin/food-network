@@ -41,23 +41,19 @@ p{
     width: 33%;
 }
 .recipies-name{
-    width: 33%;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding-left: 20px;
+   
+    margin: 4em 6em;
+    padding-left: 10px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
 }
-#beef-rosha{
-    border-left: 7px solid;
-    border-image-slice: 1;
-  }
-#beef-kala{
-    border-left: 7px solid;
-    border-image-slice: 1;
-  }
-#mutton-rosha{
-    border-left: 7px solid;
+.recipies-img{
+    width: 60%;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+#curry{
+    border: none;
     border-image-slice: 1;
   }
 footer{
